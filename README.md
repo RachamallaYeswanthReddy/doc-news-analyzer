@@ -1,6 +1,6 @@
 # 🔬 AI-Powered PDF & News Research Tool
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](your-deployed-app-url-here)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://github.com/RachamallaYeswanthReddy/doc-news-analyzer)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 
 > **Transform your research workflow with AI-powered document analysis and intelligent Q&A**
