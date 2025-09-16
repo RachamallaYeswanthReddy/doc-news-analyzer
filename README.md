@@ -152,7 +152,7 @@ We welcome contributions! Here's how you can help:
 ### 🛠️ Submit Code
 ```bash
 # Fork the repository
-git clone https://github.com/yourusername/pdf-research-tool.git
+git clone https://github.com/RachamallaYeswanthReddy/pdf-research-tool.git
 cd pdf-research-tool
 
 # Create a feature branch
